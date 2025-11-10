@@ -1,0 +1,94 @@
+.animate:hover {
+    text-decoration: underline;
+}
+.carousel {
+    position: relative;
+}
+.jumbotron {
+    position: absolute;
+    padding: 9%;
+    height: 5%;
+    width: 40%;
+    font-size: smaller;
+}
+.btn {
+    border-radius: 0%;
+    /* font-size: medium; */
+}
+.icon {
+    background-color: #ffb900;
+    color: black;
+    border-radius: 0%;
+    text-decoration: none;
+    font-size: medium;
+    line-height: 1;
+    font-weight: 600
+}
+.badge{
+    display: inline-block;
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
+.cr{
+    padding: 6%;
+    border-radius: 0%;
+    border: none;
+}
+.scr{
+    padding: 6%;
+    padding-top: 1%;
+    border-radius: 0%;
+    border: none;
+}
+.ft{
+    margin-top: 8%;
+    margin-left: 4%;
+}
+.card{
+    border-radius: 0%;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.17);
+}
+.btn{
+    background-color: #0067b8;
+    /* font-size: medium; */
+    position: relative;
+    border: none;
+    font-weight: 600;
+}
+.bi{
+    text-decoration: none;
+    color: black;
+    margin-right: 1%;
+}
+.row{
+    margin: 0%;
+}
+.udl{
+    background-color: lightgray;
+}
+.scale li a{
+    font-size: x-small;
+    text-decoration: none;
+    color: rgb(63, 62, 62);
+    text-indent: none;
+}
+.udl ul{
+    list-style: none;
+}
+/* ::marker {
+    unicode-bidi: none;
+    font-variant-numeric: none;
+    text-transform: none;
+    text-indent: none!important;
+    text-align: none !important;
+    text-align-last: none !important;
+} */
+/* .body{
+    min-height: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+} */
+/* .html{
+    width: 100%;
+    border: 5px dashed rgb(255, 16, 16);
+} */
